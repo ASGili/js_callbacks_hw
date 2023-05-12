@@ -14,4 +14,5 @@ AnagramFinder.prototype.findAnagrams = function (otherWords) {
 
     // if (length1 === length2) {return result};
 }
+
 module.exports = AnagramFinder;
