@@ -9,4 +9,3 @@ PangramFinder.prototype.isPangram = function () {
 };
 
 module.exports = PangramFinder;
-g
